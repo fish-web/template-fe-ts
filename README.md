@@ -5,6 +5,9 @@
 ``` bash
 $ npm start
 # 启动程序并热加载
+
+$ npm run build
+# 打包文件
 ```
 编译时由webpack和ts-loader来驱动，ts-loader也会读取tsconfig.json作为配置选项
 
